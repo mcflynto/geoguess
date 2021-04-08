@@ -1,0 +1,23 @@
+body {
+  background-color: #fc6c85;
+}
+
+.title {
+  font-family: Helvetica, sans-serif;
+  color: white;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  max-width: 1000px;
+}
+
+.champions {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+}
+
+.champions-img {
+  width: 100%;
+  border-radius: 25px;
+}
